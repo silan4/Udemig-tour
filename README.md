@@ -1,4 +1,4 @@
-# Uedemig Tour
+# Udemig Tour
 
 - This project is a tour booking website developed using HTML and CSS. Users can get information about various tours and review the most suitable tour packages.
 
@@ -27,4 +27,4 @@
 #  Libraries Used
 - - Box-Icons
 - - Google-Apis
-# Udemig-tour
+
